@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">navigation</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="add_user">Introduzca su usuario</string>
+    <string name="add_password">Introduzca la contraseña</string>
+    <string name="got_to_login">go to login</string>
+</resources>
